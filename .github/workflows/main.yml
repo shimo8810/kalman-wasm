@@ -1,0 +1,12 @@
+- public
+    - index.html
+- src
+    - index.js
+    - lib.rs
+    - style.css
+- .gitignore
+- Cargo.lock
+- Cargo.toml
+- package-lock.json
+- package.json
+- webpack.config.js
